@@ -5,8 +5,7 @@ while w > 2:
         break
     else:
         print("NO")
-        break
-        
+        break   
 else:
     print("NO")    
  
